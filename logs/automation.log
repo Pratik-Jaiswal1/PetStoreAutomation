@@ -1,0 +1,24 @@
+18:25:40.154 [main] INFO  api.test.UserTests - **********Creating User************
+18:25:44.419 [main] INFO  api.test.UserTests - **********User is created************
+18:25:44.456 [main] INFO  api.test.UserTests - **********Reading user info************
+18:25:46.104 [main] INFO  api.test.UserTests - **********User info is displayed************
+18:25:46.117 [main] INFO  api.test.UserTests - **********Update User************
+18:25:47.428 [main] INFO  api.test.UserTests - **********User is updated************
+18:25:48.593 [main] INFO  api.test.UserTests - **********Delete User************
+18:25:50.093 [main] INFO  api.test.UserTests - **********User is deleted************
+19:42:29.967 [main] INFO  api.test.UserTests - **********Creating User************
+19:42:35.287 [main] INFO  api.test.UserTests - **********User is created************
+19:42:35.318 [main] INFO  api.test.UserTests - **********Reading user info************
+19:42:36.909 [main] INFO  api.test.UserTests - **********User info is displayed************
+19:42:36.916 [main] INFO  api.test.UserTests - **********Update User************
+19:42:38.333 [main] INFO  api.test.UserTests - **********User is updated************
+19:42:47.922 [main] INFO  api.test.UserTests - **********Delete User************
+19:42:49.454 [main] INFO  api.test.UserTests - **********User is deleted************
+12:08:37.578 [main] INFO  api.test.UserTests - **********Creating User************
+12:08:42.670 [main] INFO  api.test.UserTests - **********User is created************
+12:08:42.697 [main] INFO  api.test.UserTests - **********Reading user info************
+12:08:44.307 [main] INFO  api.test.UserTests - **********User info is displayed************
+12:08:44.316 [main] INFO  api.test.UserTests - **********Update User************
+12:08:45.834 [main] INFO  api.test.UserTests - **********User is updated************
+12:08:47.299 [main] INFO  api.test.UserTests - **********Delete User************
+12:08:48.690 [main] INFO  api.test.UserTests - **********User is deleted************
